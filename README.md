@@ -1,5 +1,5 @@
 # solidity-web3
-basic contract creation in TDD
+basic contract creation with Mocha test
 
 
 **Deploy contract:**
