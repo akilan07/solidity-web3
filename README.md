@@ -2,7 +2,7 @@
 basic contract creation in TDD
 
 
-#Deploy contract:
+**Deploy contract:**
 
 Add metamask in chrome
 
