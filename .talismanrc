@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: deploy.js
+  checksum: a3d943bc8d8446b06a004efdbb8561ded77c5beb0e9f79bd6764bf4633b22dbe
+- filename: package-lock.json
+  checksum: 87c606c1c3cfbb6c4ceeb299c69482b9714fc5f8e75443540dd828f8ff26432c
+version: ""
