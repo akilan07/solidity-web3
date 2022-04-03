@@ -13,3 +13,5 @@ https://faucets.chain.link/rinkeby
 
 after deployed and made transaction use the below etherscan to search account address and see the contract
 https://rinkeby.etherscan.io/
+
+infura apis are use to deploy the contract in rinkeby network - https://infura.io/
